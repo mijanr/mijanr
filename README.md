@@ -26,3 +26,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mijanr&" alt="mijanr" /></p>
 
+Found something interesting or useful? Drop a ⭐ to the repository to show your support to the project!
+
