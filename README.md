@@ -49,7 +49,7 @@ I am a Machine Learning, Deep Learning, and Data Science enthusiast and a practi
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <h3 align="left">📊 Github Stats:</h3
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mijanr&show_icons=true&locale=en" alt="mijanr" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mijanr&show_icons=true&locale=en" alt="mijanr" /></p>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <h3 align="left">  📈 Github Streak:</h3>
