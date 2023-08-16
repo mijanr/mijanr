@@ -57,10 +57,10 @@ I am a Machine Learning, Deep Learning, and Data Science enthusiast and a practi
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Let’s understand the 1D convolution operation in PyTorch](https://medium.com/@mijanr/lets-understand-the-1d-convolution-operation-in-pytorch-541426f01448?source=rss-56cd4bcde552------2)
 - [Understanding *args and **kwargs in Python: A Comprehensive Guide](https://medium.com/@mijanr/understanding-args-and-kwargs-in-python-a-comprehensive-guide-be9ebf4dd861?source=rss-56cd4bcde552------2)
 - [Reading and Plotting Historical Crypto Data using Binance API with Python](https://medium.com/@mijanr/reading-and-plotting-historical-crypto-data-using-binance-api-with-python-c02a436c0307?source=rss-56cd4bcde552------2)
 - [Different ways to combine CNN and LSTM networks for time series classification tasks](https://medium.com/@mijanr/different-ways-to-combine-cnn-and-lstm-networks-for-time-series-classification-tasks-b03fc37e91b6?source=rss-56cd4bcde552------2)
-- [When detail matters! ‘is’ vs. ‘==’](https://medium.com/@mijanr/when-detail-matters-is-vs-17cf7dec74d3?source=rss-56cd4bcde552------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
