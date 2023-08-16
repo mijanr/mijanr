@@ -26,7 +26,7 @@ I am a Machine Learning, Deep Learning, and Data Science enthusiast and a practi
 <h3 align="left">  📈 Github Streak:</h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mijanr&" alt="mijanr" /></p>
 
-### 📕 Latest Blog Posts
+### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
