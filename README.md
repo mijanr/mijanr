@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Md Mijanur Rahman</h1>
 <h3 align="center">🤖 ML & 🧠 DL Practitioner 🚀 | Crafting Intelligence from Data ✨ | Explorer of Insights 🔍</h3>
-I am Machine Learning, Deep Learning, Data Science enthusiast and a practitioner. I am passionate about learning new technologies and tools, and always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+I am a Machine Learning, Deep Learning, and Data Science enthusiast and a practitioner. I am passionate about learning new technologies and tools and am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
 - 📫 How to reach me **md.rahman.ce@gmail.com**
 
