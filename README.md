@@ -54,16 +54,12 @@ I am a Machine Learning, Deep Learning, and Data Science enthusiast and a practi
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/></a>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<h3 align="left">📊 Github Stats:</h3
-<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mijanr&show_icons=true&locale=en" alt="mijanr" /></p>
-
-
 <h3 align="left">📊 Github Stats:</h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mijanr&show_icons=true&locale=en&theme=default_repocard" alt="mijanr" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mijanr&show_icons=true&locale=en&theme=dark#gh-dark-model-only" alt="mijanr" /></p>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <h3 align="left">  📈 Github Streak:</h3>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mijanr&" alt="mijanr" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mijanr&theme=dark#gh-dark-model-only" alt="mijanr" /></p>
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
