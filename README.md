@@ -8,7 +8,7 @@ I am a Machine Learning, Deep Learning, and Data Science enthusiast and a practi
 <h3 align="left">🔗 Let's connect:</h3>
 <p align="left">
 <a href="https://twitter.com/mmijanr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mmijanr" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/md-mijanur-rahman-4689a5a4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-mijanur-rahman-4689a5a4" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mijanr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mijanr" height="30" width="40" /></a>
 <a href="https://medium.com/@mijanr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mijanr" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mijanr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mijanr" height="30" width="40" /></a>
 </p>
