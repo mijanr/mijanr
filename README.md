@@ -5,6 +5,22 @@ I am a Machine Learning, Deep Learning, and Data Science enthusiast and a practi
 - 📫 How to reach me **md.rahman.ce@gmail.com**
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<h3 align="left"> 🚀 Expertise:</h3>
+    
+    - Data Science
+    - Machine Learning
+    - Deep Learning
+    - Predictive Modeling
+    - Natural Language Processing
+    - Computer Vision   
+    - Time Series Analysis
+    - Data Visualization
+    - Data Analysis
+    - Data Mining
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 <h3 align="left">🔗 Let's connect:</h3>
 <p align="left">
 <a href="https://twitter.com/mmijanr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mmijanr" height="30" width="40" /></a>
