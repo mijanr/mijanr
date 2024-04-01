@@ -11,8 +11,6 @@ I am a Machine Learning, Deep Learning, and Data Science enthusiast and a practi
     - Machine Learning
     - Deep Learning
     - Predictive Modeling
-    - Natural Language Processing
-    - Computer Vision   
     - Time Series Analysis
     - Data Visualization
     - Data Analysis
